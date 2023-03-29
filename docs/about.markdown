@@ -3,7 +3,20 @@ layout: page
 title: About
 permalink: /about/
 ---
-#### About
+<!DOCTYPE html>
+<html>
+    <head><meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="I'm a designer and developer.">
+    <title>
+        Anwar3006
+        Diana Lozano
+    </title>
+    </head>
+</html>
+
+
+
+
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
