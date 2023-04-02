@@ -18,3 +18,6 @@ This Raycaster uses the following inputs:
 - `Down` or `S` Move backward
 - `Left` or `A` Turn left
 - `Right` or `D` Turn right
+
+## DEMONSTRATION
+![Demonstrating the game play](/inc/RayCasting.png)
